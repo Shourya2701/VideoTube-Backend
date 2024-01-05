@@ -1,0 +1,24 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "VideoTube-Backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shourya2701/VideoTube-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shourya2701/VideoTube-Backend/issues"
+  },
+  "homepage": "https://github.com/Shourya2701/VideoTube-Backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
